@@ -1,2 +1,2 @@
 # sql-server
-SQL Server code examples.
+SQL Server kod örnekleri
